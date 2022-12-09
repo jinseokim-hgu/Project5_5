@@ -1,7 +1,7 @@
-package com.mycom.example;
+package com.example.com;
 
-import com.mycom.bean.UserVO;
-import com.mycom.dao.UserDAO;
+import com.example.bean.UserVO;
+import com.example.dao.UserDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

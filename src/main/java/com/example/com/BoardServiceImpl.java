@@ -1,7 +1,7 @@
-package com.mycom.example;
+package com.example.com;
 
-import com.mycom.bean.BoardVO;
-import com.mycom.dao.BoardDAO;
+import com.example.bean.BoardVO;
+import com.example.dao.BoardDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,6 @@
-package com.mycom.example;
+package com.example.com;
 
-import com.mycom.bean.BoardVO;
-import com.mycom.bean.UserVO;
+import com.example.bean.BoardVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

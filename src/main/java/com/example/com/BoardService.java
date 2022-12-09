@@ -1,6 +1,6 @@
-package com.mycom.example;
+package com.example.com;
 
-import com.mycom.bean.BoardVO;
+import com.example.bean.BoardVO;
 
 import java.util.List;
 

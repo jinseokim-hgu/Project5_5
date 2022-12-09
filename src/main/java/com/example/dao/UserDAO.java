@@ -1,6 +1,6 @@
-package com.mycom.dao;
+package com.example.dao;
 
-import com.mycom.bean.UserVO;
+import com.example.bean.UserVO;
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

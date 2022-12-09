@@ -1,4 +1,4 @@
-package com.mycom.common;
+package com.example.util;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;

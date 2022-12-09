@@ -1,4 +1,4 @@
-package com.mycom.bean;
+package com.example.bean;
 
 public class UserVO {
     private String userid;

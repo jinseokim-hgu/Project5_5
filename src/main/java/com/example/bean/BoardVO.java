@@ -1,4 +1,4 @@
-package com.mycom.bean;
+package com.example.bean;
 
 import java.util.Date;
 
