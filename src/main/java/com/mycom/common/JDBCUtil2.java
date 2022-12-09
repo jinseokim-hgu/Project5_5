@@ -4,14 +4,15 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class JDBCUtil2 {
-	public static Connection getConnection(){  
-	    Connection con=null;  
-	    try{  
+	public static Connection getConnection() {
+	    Connection con = null;
+	    try {
 	        Class.forName("com.mysql.jdbc.Driver");  
 	        con= DriverManager.getConnection("jdbc:mysql://walab.handong.edu:3306/p1_21900193","p1_21900193","zar8iwie5H");
-	    }catch(Exception e){
+	    }
+		catch (Exception e) {
 	    	System.out.println(e);
-	    }  
+	    }
 	    return con;  
 	}  
 	

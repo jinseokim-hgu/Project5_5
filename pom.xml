@@ -28,7 +28,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.3.23</version>
+      <version>${org.springframework-version}</version>
     </dependency>
     <dependency>
       <groupId>mysql</groupId>
